@@ -38,6 +38,10 @@ claude "https://github.com/muumuu8181/[リポジトリ名] をクローンして
 claude "https://github.com/muumuu8181/claude-ai-toolkit をクローンして、詳細な設定手順を教えて"
 ```
 
+## 🔑 GitHub 認証設定
+
+詳細な GitHub 認証設定手順は [CLAUDE_GITHUB_AUTH_GUIDE.md](./CLAUDE_GITHUB_AUTH_GUIDE.md) を参照してください。
+
 ## 📱 Android/Termux 特記事項
 
 ### 追加インストール
